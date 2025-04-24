@@ -11,8 +11,8 @@ function SignIn() {
             <h1>E-mail & Password</h1>
           <form action="">
             
-            <input type="Email" placeholder="Enter Your E-mail" /><br />
-            <input type="Password" placeholder="Enter Your Password"  /><br />
+            <input type="Email" placeholder="Enter Your E-mail" required /><br />
+            <input type="Password" placeholder="Enter Your Password" required /><br />
             <button id="submitBtn">Submit</button>
             <button id="LoginBtn">Register</button>
           </form>
