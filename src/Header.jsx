@@ -16,12 +16,7 @@ function Header() {
                         <li><a href="">Details</a></li>
                     </ul>
                 </div>
-                <div id='navBarLi'>
-                    <ul type="none">
-                        <li><a href="">Login</a></li>
-                        
-                    </ul>
-                </div>
+               
             </div>
 
         </>
